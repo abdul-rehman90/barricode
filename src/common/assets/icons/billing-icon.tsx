@@ -1,0 +1,9 @@
+import { IIconprops } from "@/types/prop-types";
+
+export default function BillingIcon({ pathClassName }: IIconprops) {
+  return (
+    <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
+      <path className={pathClassName && pathClassName} d="M20.668 22H4.66797C4.40275 22 4.1484 21.8946 3.96086 21.7071C3.77333 21.5196 3.66797 21.2652 3.66797 21V3C3.66797 2.73478 3.77333 2.48043 3.96086 2.29289C4.1484 2.10536 4.40275 2 4.66797 2H20.668C20.9332 2 21.1875 2.10536 21.3751 2.29289C21.5626 2.48043 21.668 2.73478 21.668 3V21C21.668 21.2652 21.5626 21.5196 21.3751 21.7071C21.1875 21.8946 20.9332 22 20.668 22ZM19.668 20V4H5.66797V20H19.668ZM8.66797 9H16.668V11H8.66797V9ZM8.66797 13H16.668V15H8.66797V13Z" fill="#3CB097" />
+    </svg>
+  )
+}

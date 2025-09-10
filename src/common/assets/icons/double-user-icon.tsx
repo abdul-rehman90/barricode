@@ -1,0 +1,10 @@
+import { IIconprops } from "@/types/prop-types";
+
+export default function Card3({ pathClassName }: IIconprops) {
+    return (
+        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" fill="none">
+            <path className={pathClassName && pathClassName} d="M16.332 21.9092V19.9092C16.332 18.8484 15.9106 17.831 15.1605 17.0808C14.4103 16.3307 13.3929 15.9092 12.332 15.9092H6.33203C5.27117 15.9092 4.25375 16.3307 3.5036 17.0808C2.75346 17.831 2.33203 18.8484 2.33203 19.9092V21.9092M16.332 4.03723C17.1898 4.2596 17.9494 4.7605 18.4917 5.46129C19.034 6.16209 19.3282 7.02312 19.3282 7.90923C19.3282 8.79534 19.034 9.65637 18.4917 10.3572C17.9494 11.058 17.1898 11.5589 16.332 11.7812M22.332 21.9092V19.9092C22.3314 19.023 22.0364 18.162 21.4934 17.4615C20.9504 16.7611 20.1902 16.2608 19.332 16.0392" stroke="#10957D" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+            <path className={pathClassName && pathClassName} d="M9.33203 11.9092C11.5412 11.9092 13.332 10.1183 13.332 7.90918C13.332 5.70004 11.5412 3.90918 9.33203 3.90918C7.12289 3.90918 5.33203 5.70004 5.33203 7.90918C5.33203 10.1183 7.12289 11.9092 9.33203 11.9092Z" stroke="#10957D" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+        </svg>
+    )
+}

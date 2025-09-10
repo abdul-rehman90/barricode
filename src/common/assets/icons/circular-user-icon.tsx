@@ -1,0 +1,100 @@
+import { IIconprops } from "@/types/prop-types";
+
+export default function Appflow4({ }: IIconprops) {
+    return (
+        <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21" fill="none">
+            <g clip-path="url(#clip0_6073_153)">
+                <circle cx="10.5608" cy="10.5608" r="9.51219" stroke="#95A1B1" strokeWidth="0.487805" />
+                <circle cx="5.35155" cy="5.34766" r="0.433647" transform="rotate(-45 5.35155 5.34766)" fill="#95A1B1" />
+                <circle cx="5.35155" cy="5.34766" r="0.433647" transform="rotate(-45 5.35155 5.34766)" fill="#95A1B1" />
+                <circle cx="15.7734" cy="5.34766" r="0.433647" transform="rotate(-45 15.7734 5.34766)" fill="#95A1B1" />
+                <circle cx="15.7734" cy="5.34766" r="0.433647" transform="rotate(-45 15.7734 5.34766)" fill="#95A1B1" />
+                <circle cx="5.35155" cy="15.7744" r="0.433647" transform="rotate(-45 5.35155 15.7744)" fill="#95A1B1" />
+                <circle cx="5.35155" cy="15.7744" r="0.433647" transform="rotate(-45 5.35155 15.7744)" fill="#95A1B1" />
+                <circle cx="10.5596" cy="10.5611" r="2.80488" stroke="#95A1B1" strokeWidth="0.243902" />
+                <circle cx="10.5592" cy="10.5611" r="3.29268" stroke="#95A1B1" strokeWidth="0.243902" />
+                <circle cx="15.7734" cy="15.7744" r="0.433647" transform="rotate(-45 15.7734 15.7744)" fill="#95A1B1" />
+                <circle cx="15.7734" cy="15.7744" r="0.433647" transform="rotate(-45 15.7734 15.7744)" fill="#95A1B1" />
+                <circle cx="4.17831" cy="6.87497" r="0.433647" transform="rotate(-60 4.17831 6.87497)" fill="#95A1B1" />
+                <circle cx="4.17831" cy="6.87497" r="0.433647" transform="rotate(-60 4.17831 6.87497)" fill="#95A1B1" />
+                <circle cx="14.2447" cy="4.17721" r="0.433647" transform="rotate(-60 14.2447 4.17721)" fill="#95A1B1" />
+                <circle cx="14.2447" cy="4.17721" r="0.433647" transform="rotate(-60 14.2447 4.17721)" fill="#95A1B1" />
+                <circle cx="6.87362" cy="16.9438" r="0.433647" transform="rotate(-60 6.87362 16.9438)" fill="#95A1B1" />
+                <circle cx="6.87362" cy="16.9438" r="0.433647" transform="rotate(-60 6.87362 16.9438)" fill="#95A1B1" />
+                <circle cx="16.9439" cy="14.2456" r="0.433647" transform="rotate(-60 16.9439 14.2456)" fill="#95A1B1" />
+                <circle cx="16.9439" cy="14.2456" r="0.433647" transform="rotate(-60 16.9439 14.2456)" fill="#95A1B1" />
+                <circle cx="3.44126" cy="8.65381" r="0.433647" transform="rotate(-75 3.44126 8.65381)" fill="#95A1B1" />
+                <circle cx="3.44126" cy="8.65381" r="0.433647" transform="rotate(-75 3.44126 8.65381)" fill="#95A1B1" />
+                <circle cx="12.4686" cy="3.44239" r="0.433647" transform="rotate(-75 12.4686 3.44239)" fill="#95A1B1" />
+                <circle cx="12.4686" cy="3.44239" r="0.433647" transform="rotate(-75 12.4686 3.44239)" fill="#95A1B1" />
+                <circle cx="12.4686" cy="3.44239" r="0.433647" transform="rotate(-75 12.4686 3.44239)" fill="#95A1B1" />
+                <circle cx="12.4686" cy="3.44239" r="0.433647" transform="rotate(-75 12.4686 3.44239)" fill="#95A1B1" />
+                <circle cx="8.65611" cy="17.6802" r="0.433647" transform="rotate(-75 8.65611 17.6802)" fill="#95A1B1" />
+                <circle cx="8.65611" cy="17.6802" r="0.433647" transform="rotate(-75 8.65611 17.6802)" fill="#95A1B1" />
+                <circle cx="17.6795" cy="12.4688" r="0.433647" transform="rotate(-75 17.6795 12.4688)" fill="#95A1B1" />
+                <circle cx="17.6795" cy="12.4688" r="0.433647" transform="rotate(-75 17.6795 12.4688)" fill="#95A1B1" />
+                <circle cx="3.44335" cy="12.4689" r="0.433647" transform="rotate(-105 3.44335 12.4689)" fill="#95A1B1" />
+                <circle cx="3.44335" cy="12.4689" r="0.433647" transform="rotate(-105 3.44335 12.4689)" fill="#95A1B1" />
+                <circle cx="8.65429" cy="3.44253" r="0.433647" transform="rotate(-105 8.65429 3.44253)" fill="#95A1B1" />
+                <circle cx="8.65429" cy="3.44253" r="0.433647" transform="rotate(-105 8.65429 3.44253)" fill="#95A1B1" />
+                <circle cx="12.4707" cy="17.6803" r="0.433647" transform="rotate(-105 12.4707 17.6803)" fill="#95A1B1" />
+                <circle cx="12.4707" cy="17.6803" r="0.433647" transform="rotate(-105 12.4707 17.6803)" fill="#95A1B1" />
+                <circle cx="17.6816" cy="8.65395" r="0.433647" transform="rotate(-105 17.6816 8.65395)" fill="#95A1B1" />
+                <circle cx="17.6816" cy="8.65395" r="0.433647" transform="rotate(-105 17.6816 8.65395)" fill="#95A1B1" />
+                <circle cx="4.17826" cy="14.2465" r="0.433647" transform="rotate(-120 4.17826 14.2465)" fill="#95A1B1" />
+                <circle cx="4.17826" cy="14.2465" r="0.433647" transform="rotate(-120 4.17826 14.2465)" fill="#95A1B1" />
+                <circle cx="6.87748" cy="4.1796" r="0.433647" transform="rotate(-120 6.87748 4.1796)" fill="#95A1B1" />
+                <circle cx="6.87748" cy="4.1796" r="0.433647" transform="rotate(-120 6.87748 4.1796)" fill="#95A1B1" />
+                <circle cx="14.2486" cy="16.9428" r="0.433647" transform="rotate(-120 14.2486 16.9428)" fill="#95A1B1" />
+                <circle cx="14.2486" cy="16.9428" r="0.433647" transform="rotate(-120 14.2486 16.9428)" fill="#95A1B1" />
+                <circle cx="16.9478" cy="6.87589" r="0.433647" transform="rotate(-120 16.9478 6.87589)" fill="#95A1B1" />
+                <circle cx="16.9478" cy="6.87589" r="0.433647" transform="rotate(-120 16.9478 6.87589)" fill="#95A1B1" />
+                <circle cx="6.07828" cy="6.2832" r="0.359188" transform="rotate(-45 6.07828 6.2832)" fill="#95A1B1" />
+                <circle cx="6.07828" cy="6.2832" r="0.359188" transform="rotate(-45 6.07828 6.2832)" fill="#95A1B1" />
+                <circle cx="14.7072" cy="6.2832" r="0.359188" transform="rotate(-45 14.7072 6.2832)" fill="#95A1B1" />
+                <circle cx="14.7072" cy="6.2832" r="0.359188" transform="rotate(-45 14.7072 6.2832)" fill="#95A1B1" />
+                <circle cx="6.07828" cy="14.917" r="0.359188" transform="rotate(-45 6.07828 14.917)" fill="#95A1B1" />
+                <circle cx="6.07828" cy="14.917" r="0.359188" transform="rotate(-45 6.07828 14.917)" fill="#95A1B1" />
+                <circle cx="14.7072" cy="14.917" r="0.359188" transform="rotate(-45 14.7072 14.917)" fill="#95A1B1" />
+                <circle cx="14.7072" cy="14.917" r="0.359188" transform="rotate(-45 14.7072 14.917)" fill="#95A1B1" />
+                <circle cx="5.10785" cy="7.54822" r="0.359188" transform="rotate(-60 5.10785 7.54822)" fill="#95A1B1" />
+                <circle cx="5.10785" cy="7.54822" r="0.359188" transform="rotate(-60 5.10785 7.54822)" fill="#95A1B1" />
+                <circle cx="13.4438" cy="5.31335" r="0.359188" transform="rotate(-60 13.4438 5.31335)" fill="#95A1B1" />
+                <circle cx="13.4438" cy="5.31335" r="0.359188" transform="rotate(-60 13.4438 5.31335)" fill="#95A1B1" />
+                <circle cx="7.34222" cy="15.8866" r="0.359188" transform="rotate(-60 7.34222 15.8866)" fill="#95A1B1" />
+                <circle cx="7.34222" cy="15.8866" r="0.359188" transform="rotate(-60 7.34222 15.8866)" fill="#95A1B1" />
+                <circle cx="15.6782" cy="13.6517" r="0.359188" transform="rotate(-60 15.6782 13.6517)" fill="#95A1B1" />
+                <circle cx="15.6782" cy="13.6517" r="0.359188" transform="rotate(-60 15.6782 13.6517)" fill="#95A1B1" />
+                <circle cx="4.49851" cy="9.02092" r="0.359188" transform="rotate(-75 4.49851 9.02092)" fill="#95A1B1" />
+                <circle cx="4.49851" cy="9.02092" r="0.359188" transform="rotate(-75 4.49851 9.02092)" fill="#95A1B1" />
+                <circle cx="11.9712" cy="4.705" r="0.359188" transform="rotate(-75 11.9712 4.705)" fill="#95A1B1" />
+                <circle cx="11.9712" cy="4.705" r="0.359188" transform="rotate(-75 11.9712 4.705)" fill="#95A1B1" />
+                <circle cx="8.81491" cy="16.496" r="0.359188" transform="rotate(-75 8.81491 16.496)" fill="#95A1B1" />
+                <circle cx="8.81491" cy="16.496" r="0.359188" transform="rotate(-75 8.81491 16.496)" fill="#95A1B1" />
+                <circle cx="16.2876" cy="12.1801" r="0.359188" transform="rotate(-75 16.2876 12.1801)" fill="#95A1B1" />
+                <circle cx="16.2876" cy="12.1801" r="0.359188" transform="rotate(-75 16.2876 12.1801)" fill="#95A1B1" />
+                <circle cx="4.50008" cy="12.1807" r="0.359188" transform="rotate(-105 4.50008 12.1807)" fill="#95A1B1" />
+                <circle cx="4.50008" cy="12.1807" r="0.359188" transform="rotate(-105 4.50008 12.1807)" fill="#95A1B1" />
+                <circle cx="8.81258" cy="4.70364" r="0.359188" transform="rotate(-105 8.81258 4.70364)" fill="#95A1B1" />
+                <circle cx="8.81258" cy="4.70364" r="0.359188" transform="rotate(-105 8.81258 4.70364)" fill="#95A1B1" />
+                <circle cx="11.9727" cy="16.4951" r="0.359188" transform="rotate(-105 11.9727 16.4951)" fill="#95A1B1" />
+                <circle cx="11.9727" cy="16.4951" r="0.359188" transform="rotate(-105 11.9727 16.4951)" fill="#95A1B1" />
+                <circle cx="16.293" cy="9.01761" r="0.359188" transform="rotate(-105 16.293 9.01761)" fill="#95A1B1" />
+                <circle cx="16.293" cy="9.01761" r="0.359188" transform="rotate(-105 16.293 9.01761)" fill="#95A1B1" />
+                <circle cx="5.10413" cy="13.6524" r="0.359188" transform="rotate(-120 5.10413 13.6524)" fill="#95A1B1" />
+                <circle cx="5.10413" cy="13.6524" r="0.359188" transform="rotate(-120 5.10413 13.6524)" fill="#95A1B1" />
+                <circle cx="7.34241" cy="5.31403" r="0.359188" transform="rotate(-120 7.34241 5.31403)" fill="#95A1B1" />
+                <circle cx="7.34241" cy="5.31403" r="0.359188" transform="rotate(-120 7.34241 5.31403)" fill="#95A1B1" />
+                <circle cx="13.4479" cy="15.8858" r="0.359188" transform="rotate(-120 13.4479 15.8858)" fill="#95A1B1" />
+                <circle cx="13.4479" cy="15.8858" r="0.359188" transform="rotate(-120 13.4479 15.8858)" fill="#95A1B1" />
+                <circle cx="15.6823" cy="7.54743" r="0.359188" transform="rotate(-120 15.6823 7.54743)" fill="#95A1B1" />
+                <circle cx="15.6823" cy="7.54743" r="0.359188" transform="rotate(-120 15.6823 7.54743)" fill="#95A1B1" />
+            </g>
+            <defs>
+                <clipPath id="clip0_6073_153">
+                    <rect width="19.5122" height="19.5122" fill="white" transform="translate(0.804688 0.804688)" />
+                </clipPath>
+            </defs>
+        </svg>
+    )
+}

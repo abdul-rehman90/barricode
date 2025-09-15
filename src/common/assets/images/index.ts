@@ -1,3 +1,6 @@
+import heroonefour from "./hero-one4.png";
+import herotwofour from "./hero-two4.png";
+import herothreefour from "./hero-three4.png";
 import InsightIcon from "./insight-icon.svg";
 import InsightRight from "./insight-right.png";
 // import roleManagement from "./role-management.svg";
@@ -7,7 +10,7 @@ import staycard2 from "./staycard2.png";
 import staycard3 from "./staycard3.png";
 import staycard4 from "./staycard4.png";
 import solution1 from "./solution1.svg";
-import solution2 from "./solution2.svg";
+import solution2 from "./press-people.png";
 import whatdo from "./whatdo.png";
 import executive from "./executive.png";
 import director1 from "./director1.png";
@@ -17,12 +20,12 @@ import laptop from "./laptop.png";
 import backOfficeHeroImg from "./back-office-hero-img.png";
 import customerAvatarGroup from "./custome-avatar-group.png";
 import mobileimage from "./hero-mobile.png";
-import mobileup from "./mobileup.svg";
+import mobileup from "./mobileup.png";
 import location1 from "./location1.svg";
 import location2 from "./location2.svg";
 import location3 from "./location3.svg";
 import location4 from "./location4.svg";
-import mobileup2 from "./mobileup2.svg";
+import mobileup2 from "./mobileup2.png";
 import coupleicons from "./couple-icons.svg";
 import mobiledot from "./mobile-dot.svg";
 import animateddots from "./animmated-dots.svg";
@@ -115,7 +118,7 @@ import guardIcon from "./guard-icon.png";
 import tab2 from "./tab-2.png";
 import tab3 from "./tab-3.png";
 import cursor from "./click-mockup.svg";
-import sidebar from "./side-bar.svg";
+import sidebar from "./home-side-bar.png";
 import endUserAppIcon from "./end-user-app-icon.png";
 import installerAppIcon from "./installer-app-icon.png";
 import aboutUsIcon from "./about-us-icon.png";
@@ -129,7 +132,7 @@ import step4 from "./step-4.png";
 import step5 from "./step-5.png";
 import step6 from "./step-6.png";
 import visionIcon from "./vision-icon.png";
-import enduserhero from "./enduser-hero.svg";
+import enduserhero from "./enduser-hero.png";
 import homeheroalt from "./home-hero-alt.png";
 import mainheroframe from "./home-hero-frame.png";
 import herogifalt from "./Hero-variant-2.gif";
@@ -143,7 +146,7 @@ import appleicon from "./apple-icon.svg";
 import storeicon from "./store-icon.svg";
 import bluemockup from "./blue-mockup.svg";
 import mapsalt from "./maps-alt.svg";
-import securitymocup from "./security-mockup.svg";
+import securitymocup from "./security-mockup.png";
 import heroone from "./hero-group.svg";
 import herosole from "./hero-sole.svg";
 import herotwo from "./hero-2.svg";
@@ -177,7 +180,7 @@ import workprogressfive from "./work-progress-5.svg";
 import tabnewone from "./tab-new.jpg";
 import tabnewtwo from "./tab-new-two.jpg";
 import tabnewthree from "./tab-new-three.png";
-import feature3new from "./feature-three-new.svg";
+import feature3new from "./power-bi.png";
 import enduserone from "./end-user-one.svg";
 import endusertow from "./end-user-two.svg";
 import endusertthree from "./end-user-three.svg";
@@ -283,8 +286,13 @@ import mobilemockupone from "./mobile-mock-1.png";
 import mobilemockuptwo from "./mobile-moke-2.png";
 import mobilemockuptwonew from "./mobile-mock-two.png";
 import newmockup from "./new-mockup.png";
-import doublemobilemockup from "./double-mobile-mockup.webp";
+import doublemobilemockup from "./double-mobile-mockup.png";
 import cameraframe from "./camera-frame.png";
+import hand1 from "./hand-1.png";
+import hand2 from "./hand-2.png";
+import hand3 from "./hand-3.png";
+import hand4 from "./hand-4.png";
+import landinglaptop from "./landing-laptop.png";
 export {
   solution1,
   solution2,
@@ -571,4 +579,12 @@ export {
   newmockup,
   doublemobilemockup,
   cameraframe,
+  hand1,
+  hand2,
+  hand3,
+  hand4,
+  heroonefour,
+  herotwofour,
+  herothreefour,
+  landinglaptop,
 };

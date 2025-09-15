@@ -22,9 +22,8 @@ function Herosection() {
                 <div className="grid grid-cols-1 md:grid-cols-2 items-end">
                     <div className='w-full max-w-[650px] py-10 md:py-25 mt-24 md:mt-20'>
                         <h2 className='leading-8 sm:leading-18 ff_telegraf font-extrabold text-white text-2xl sm:text-[64px]'>
-                            Everything.
-                            <br />
-                            Controlled By The<br />
+                            Everything. <br />
+                            Controlled By The
                             Installer
 
                         </h2>

@@ -800,7 +800,7 @@ export default function BackofficeTimeline() {
                       className="absolute w-2 bg-[#10957D] rounded-full"
                       style={{
                         left: isSmallScreen ? "7px" : "8.5px",
-                        top: `${timelineLineTopOffset}px`, // Now includes the gap
+                        top: `${timelineLineTopOffset}px`,
                         height: index === index - 1
                           ? `150%!important`
                           : `${timelineLineHeight}px`,

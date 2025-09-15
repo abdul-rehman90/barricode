@@ -26,7 +26,7 @@ function Executive() {
                         <h2 className='ff_telegraf text-[#122D46] font-extrabold text-sm sm:text-2xl block sm:hidden'>
                             “At its core, Barricade is about connection — between people, systems, and businesses. This is security, made personal.”
                         </h2>
-                        <h2 className='ff_telegraf text-sm sm:text-2xl hidden sm:block'>
+                        <h2 className='ff_telegraf font-extrabold text-sm sm:text-2xl hidden sm:block'>
                             “At its core, Barricade is about connection — between people, systems, and businesses.
                             We built it not just to solve technical problems, but to strengthen the relationships
                             between installers and their clients, teams and their tools. This is security, made

@@ -76,7 +76,7 @@ function Makesdifferent() {
                                 <div
                                     data-aos="fade-scale"
                                     key={index}
-                                    className={`shadow-lg rounded-2xl ${index === 0 || index === 1 ? "col-span-3" : 'col-span-2'}`}
+                                    className={`shadow-lg rounded-2xl ${index === 0 || index === 1 ? "col-span-3" : 'col-span-3 md:col-span-2'}`}
                                 >
                                     <div className='group hover:bg-[#005143] transition-all duration-300 w-full p-6  rounded-2xl min-h-[250px] max-sm:min-h-[196px]'>
                                         <div className="flex transition-all duration-300 items-center justify-center h-12 w-12 rounded-full ">

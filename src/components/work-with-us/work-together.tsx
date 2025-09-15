@@ -10,7 +10,7 @@ function WorkTogether() {
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
             }}
-            className='py-[93px] lg:py-[180px]'
+            className='py-[40px] lg:py-[180px]'
         >
             <div className="container">
                 <div className='max-w-[650px]'>

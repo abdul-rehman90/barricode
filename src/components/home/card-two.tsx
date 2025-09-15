@@ -1,5 +1,5 @@
 import { MonitorIcon, ServiceIcon } from '@/common/assets/icons'
-import { animatedservices, feature1, feature2 } from '@/common/assets/images'
+import { animatedservices, feature1, feature2, landinglaptop } from '@/common/assets/images'
 import Image from 'next/image'
 import React from 'react'
 function Cardtwo() {
@@ -28,7 +28,7 @@ function Cardtwo() {
                     <p className="text-sm text-white">Connect with monitoring centers or use Barricade`s in-app live view and alert system.</p>
                 </div>
                 <div className="flex-grow h-full flex items-end">
-                    <Image src={feature2} alt="Feature image" width={348} height={231} />
+                    <Image src={landinglaptop} alt="Feature image" />
                 </div>
             </div>
 

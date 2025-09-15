@@ -44,7 +44,7 @@ function GuardMobile() {
                     <div className="max-w-[700px] mx-auto flex flex-col justify-center">
                         <span className='text-[#005143] text-xl font-normal ff_telegraf'>Guard Mobile</span>
                         <h2 className="text-2xl lg:text-4xl text-[#122D46] ff_telegraf font-extrabold mt-6">
-                            Empower the Installer`s Guards On-the-Go
+                            {`Empower the Installer's Guards On-the-Go`}
                         </h2>
                         <p className='mt-6 text-[#101828] text-base font-light'>Give the guards the tools they need to operate professionally and efficiently — directly from their phone.</p>
                         <div className="mt-6">

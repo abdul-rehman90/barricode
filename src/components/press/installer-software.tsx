@@ -36,6 +36,8 @@ function Installersoftware() {
                     <Button
                         text='Read More'
                         buttonClassName='bg-[#005143] mt-4'
+                        target='blank'
+                        href='https://www.in-security.eu/index.php/editorial/industry-news/born-from-the-field-barricade-systems-launches-globally-in-april-delivering-an-installer-first-brand-agnostic-security-platform'
                     />
                 </div>
             </div>

@@ -63,10 +63,10 @@ function Cardfive() {
                 {/* </div> */}
                 <div data-aos='fade-scale' className="flex bg-[#3CB097] justify-end items-start relative border rounded-2xl border-[#00856E] overflow-hidden">
                     <div className=''>
-                        <Image className="absolute -top-0.5 object-cover left-0 h-full" src={sidebar} alt="Feature image" />
-                        <Image className="absolute bottom-4 hidden md:block left-22" src={cursor} alt="Feature image" />
+                        <Image className="h-[330px] w-full" src={sidebar} alt="Feature image" />
+                        <Image className="absolute bottom-9 hidden md:block left-22" src={cursor} alt="Feature image" />
                     </div>
-                    <div className="max-w-[253px] p-6 flex justify-end flex-col">
+                    <div className="max-w-[200px] sm:max-w-full md:max-w-[223px] p-6 flex justify-end flex-col">
                         <div className="w-12 ms-auto h-12 rounded-full bg-white flex items-center justify-center">
                             <Circlenone pathClassName="h-6 w-6" />
                         </div>

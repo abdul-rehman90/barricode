@@ -135,7 +135,7 @@ function ProgressCards() {
                         </div>
                     </div>
 
-                    <div className={`absolute w-[8px] ${index === 0 ? 'h-[525px]' : index === 4 ? 'h-[400px] -mt-16' : 'h-[555px]'}  rounded left-0 md:left-1/2 top-1/2 -translate-x-1/2 -translate-y-[42%]`}>
+                    <div className={`absolute w-[8px] ${index === 0 ? 'h-[755px] md:h-[525px]' : index === 4 ? 'h-[680px] md:h-[400px] md:-mt-16' : 'h-[676px] md:h-[555px]'}  rounded left-0 md:left-1/2 top-1/2 -translate-x-1/2 -translate-y-[44%]  md:-translate-y-[42%]`}>
                         <div className="absolute inset-0 bg-[#10957D] rounded"></div>
 
                         <div

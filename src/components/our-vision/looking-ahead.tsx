@@ -18,7 +18,7 @@ function LookingAhead() {
     return (
         <div className='py-12 lg:py-[100px]'>
             <div className="container">
-                <div className='grid grid-cols-1 lg:grid-cols-[612px_1fr] gap-12 py-16 px-0 lg:px-4 items-center '>
+                <div className='grid grid-cols-1 lg:grid-cols-[612px_1fr] gap-12 py-0 md:py-16 px-0 lg:px-4 items-center '>
                     <div>
                         {/* Left Column */}
                         <div className="w-full max-w-[612px]">

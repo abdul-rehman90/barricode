@@ -4,7 +4,7 @@ import React, { useEffect } from 'react';
 import 'aos/dist/aos.css';
 import Heading from '@/common/components/heading'
 import Image from 'next/image';
-import { fourone, fourtwo, fourthree, fourrfour, future1, future2, future3, future4, smallFuture1, smallFuture2 } from '@/common/assets/images';
+import { fourone, fourtwo, hand1, hand3, hand2, hand4 } from '@/common/assets/images';
 
 function DesignFuture() {
     useEffect(() => {
@@ -16,8 +16,8 @@ function DesignFuture() {
             });
         });
     }, []);
-    const largeScreenImages = [fourone, fourtwo, fourthree, fourrfour];
-    const smallScreenImages = [fourone, fourtwo];
+    const largeScreenImages = [hand1, hand2, hand3, hand4];
+    const smallScreenImages = [hand1, hand4];
 
     return (
         <div className='py-12 lg:py-[100px]'>

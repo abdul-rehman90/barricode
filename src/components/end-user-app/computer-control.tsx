@@ -226,7 +226,7 @@ function ComputerControl() {
         //     </div>
         // </div>
 
-          <div className="py-10 md:py-25">
+        <div className="py-10 md:py-25">
             <div className="container">
                 <div className="max-w-[850px] mx-auto">
                     <Heading
@@ -344,9 +344,9 @@ function ComputerControl() {
                             </p>
                         </div>
 
-                        <div className='flex items-start w-fit h-full justify-end relative py-6 z-1'>
+                        <div className='flex items-start w-fit h-full justify-center md:justify-end relative py-6 z-1'>
                             <Image className='hidden md:block' src={coupleicons} alt='iconn' />
-                            <div className='w-full max-w-[600px] ms-20'>
+                            <div className='w-full max-w-[600px] ms-16 md:ms-20'>
                                 <Image className='absolute bottom-20 left-36 group-hover:translate-x-8  md:group-hover:translate-x-28 group-hover:-translate-y-40 duration-700' src={animateddots} alt='iconn' />
                                 <Image className='h-full w-[142px] ml-10 relative group-hover:translate-y-42 duration-700 group-hover:scale-125 opacity-0 group-hover:opacity-100' src={redmockup} alt='iconn' />
                                 <Image className='h-full w-[142px] absolute top-0 ml-10 group-hover:translate-y-42 duration-700 group-hover:scale-125 group-hover:opacity-0' src={mobiledot} alt='iconn' />

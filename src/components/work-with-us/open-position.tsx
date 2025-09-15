@@ -83,7 +83,7 @@ function OpenPosition() {
                     <div className='flex items-center gap-4 justify-center mt-4'>
                         <div className='flex items-center gap-2'>
                             <Image src={verifiedIcon} alt="Verified Icon" width={16} height={16} />
-                            <p className='text-sm font-light text-[#122D46]'>SOC2 Type 2 Certified</p>
+                            <p className='text-sm font-light text-[#122D46] text-nowrap'>SOC2 Type 2 Certified</p>
                         </div>
                         <div className='flex items-center gap-2'>
                             <Image src={verifiedIcon} alt="Verified Icon" width={16} height={16} />

@@ -2,7 +2,7 @@
 
 import React, { useEffect } from 'react';
 import 'aos/dist/aos.css';
-import { groupmobilesm, mobilegroup } from '@/common/assets/images'
+import { mobilegroup } from '@/common/assets/images'
 import Heading from '@/common/components/heading'
 import Text from '@/common/components/text'
 import Image from 'next/image'
@@ -73,7 +73,7 @@ function SupportControl() {
                         ))}
                     </div>
                     <Image className='hidden md:block' height={638} width={504} src={mobilegroup} alt='' />
-                    <Image className='block md:hidden' src={groupmobilesm} alt='' />
+                    <Image className='block md:hidden max-w-[10s1px]' src={mobilegroup} alt='' />
                     <div className='flex flex-col gap-6 md:gap-[100px] justify-between h-full'>
                         {data2.map((item, index) => (
                             <div className='max-w-[350px] h-full' key={index}>

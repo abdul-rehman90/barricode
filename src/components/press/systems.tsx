@@ -69,6 +69,7 @@ function Systems() {
                                     <div className='rounded-3xl rounded-t-none bg-gradient-to-b from-[rgba(0,0,0,0)] to-black absolute top-0 left-0 right-0 h-full w-full'></div>
                                     <div className='absolute bottom-6 px-4'>
                                         <Heading
+                                            headingClassName='hidden md:block'
                                             text='Born from the field: Barricade Systems launches globally in April, delivering an installer-first, brand-agnostic security platform'
                                             variant='heading-sp'
                                         />

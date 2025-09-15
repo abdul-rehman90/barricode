@@ -19,7 +19,6 @@ export default function index() {
         headingalignment='max-w-[695px] mx-auto text-center'
         cardclassName='text-center'
         heading={`We’re building more than softwareWe’re building <span class='text-[#3CB097]'>trust</span>`}
-        // heading='naeem'
         features={features}
       />
       <DesignFuture />

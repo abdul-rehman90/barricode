@@ -70,7 +70,7 @@ function Linkedin() {
                             <span className='text-[#122D46] ff_geret text-[8px] md:text-sm'>
                                 — from our official
                             </span>
-                            <Link href='/linkedin.com/company/barricadesystems' className='text-[#005143] ps-2 font-extrabold ff_telegraf text-[8px] md:text-base'>
+                            <Link target='blank' href="https://www.linkedin.com/company/barricadesystems" className='text-[#005143] ps-2 font-extrabold ff_telegraf text-[8px] md:text-base'>
                                 {item.linkLabel}
                             </Link>
                         </div>

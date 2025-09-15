@@ -13,7 +13,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Barricade",
+  title: "Barricade Test",
   description:
     "Tired of juggling disconnected security systems? Barricade brings everything together — intrusion, fire, access, surveillance, analytics, and billing — into one powerful, hardware-agnostic platform.",
   icons: {

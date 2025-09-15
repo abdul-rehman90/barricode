@@ -2,11 +2,13 @@
 
 import React, { useEffect, useState } from 'react';
 import 'aos/dist/aos.css';
-import { finalgraph, heroone, heroonefour, herosole, herothreefour, herotwo, herotwofour, homeheroalt, homeherobefore, } from "@/common/assets/images";
+import { finalgraph, heroonefour, homeheroalt, homeherobefore, } from "@/common/assets/images";
 import Button from "@/common/components/button";
 import Text from "@/common/components/text";
 import Image from "next/image";
 import Video from "./video";
+import herothreefour from '@/common/assets/images/hero-three4.png'
+import herotwofour from '@/common/assets/images/hero-two4.png'
 function Hero() {
     useEffect(() => {
         import('aos').then(AOS => {

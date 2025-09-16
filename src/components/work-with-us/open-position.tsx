@@ -58,17 +58,14 @@ function OpenPosition() {
                         <div
                             data-aos="fade-scale"
                             key={index}
-                            className="rounded-xl p-4 lg:p-6 bg-white hover:shadow-lg transition duration-300 flex flex-col justify-between h-full"
+                            className="rounded-xl p-4 lg:p-6 bg-white hover:shadow-lg transition duration-300"
                         >
-                            <div>
-                                <h2 className="text-base lg:text-2xl font-extrabold text-[#122D46] ff_telegraf">
-                                    {job.title}
-                                </h2>
-                                <p className="text-sm lg:text-base text-[#122D46] font-light mt-2">
-                                    {job.location}
-                                </p>
-                            </div>
-
+                            <h2 className="text-base lg:text-2xl font-extrabold text-[#122D46] ff_telegraf">
+                                {job.title}
+                            </h2>
+                            <p className="text-sm lg:text-base text-[#122D46] font-light mt-2">
+                                {job.location}
+                            </p>
 
                             {/* Always open email client */}
                             <Link

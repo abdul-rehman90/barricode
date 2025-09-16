@@ -2,7 +2,7 @@
 
 import React, { useEffect } from 'react';
 import 'aos/dist/aos.css';
-import { groupmobilesm, mobilegroup } from '@/common/assets/images'
+import { mobilegroup } from '@/common/assets/images'
 import Heading from '@/common/components/heading'
 import Text from '@/common/components/text'
 import Image from 'next/image'

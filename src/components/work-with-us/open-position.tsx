@@ -18,12 +18,12 @@ function OpenPosition() {
         });
     }, []);
     const jobs = [
-        { title: "Senior Java Developer", location: "Lisbon - Portugal", url: "" },
-        { title: "Senior Java Developer", location: "Lisbon - Portugal", url: "" },
-        { title: "Senior Java Developer", location: "Lisbon - Portugal", url: "" },
-        { title: "Senior Java Developer", location: "Lisbon - Portugal", url: "" },
-        { title: "Senior Java Developer", location: "Lisbon - Portugal", url: "" },
-        { title: "Senior Java Developer", location: "Lisbon - Portugal", url: "" },
+        { title: "Senior iOS Developer", location: "Bergen, Norway", url: "" },
+        { title: "Senior Java Developer (Backend)", location: "Lisbon, Portugal", url: "" },
+        { title: "QA Engineer / Test Engineer", location: "Bucharest, Romania", url: "" },
+        { title: "Project Manager", location: "Oslo, Norway", url: "" },
+        { title: "Sales Manager", location: "Madrid, Spain", url: "" },
+        { title: "Finance & Administration Manager", location: "Bergen, Norway", url: "" },
 
     ];
     return (

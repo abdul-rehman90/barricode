@@ -1,4 +1,4 @@
-<svg width="550" height="510" viewBox="0 0 550 510" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="487" height="510" viewBox="0 0 487 510" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g clip-path="url(#clip0_3897_6983)">
 <rect x="118" y="22" width="369" height="746" fill="url(#pattern0_3897_6983)"/>
 <mask id="mask0_3897_6983" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="137" y="37" width="332" height="716">
@@ -49,7 +49,7 @@
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_3897_6983" result="shape"/>
 </filter>
 <clipPath id="clip0_3897_6983">
-<rect width="549.999" height="509.938" fill="white"/>
+<rect width="487" height="510" fill="white"/>
 </clipPath>
 <clipPath id="clip1_3897_6983">
 <rect width="43" height="48" fill="white" transform="translate(19.5 208)"/>

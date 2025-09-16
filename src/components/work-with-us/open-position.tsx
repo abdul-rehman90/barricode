@@ -18,12 +18,12 @@ function OpenPosition() {
         });
     }, []);
     const jobs = [
-        { title: "Senior Java Developer", location: "Lisbon - Portugal", url: "" },
-        { title: "Senior Java Developer", location: "Lisbon - Portugal", url: "" },
-        { title: "Senior Java Developer", location: "Lisbon - Portugal", url: "" },
-        { title: "Senior Java Developer", location: "Lisbon - Portugal", url: "" },
-        { title: "Senior Java Developer", location: "Lisbon - Portugal", url: "" },
-        { title: "Senior Java Developer", location: "Lisbon - Portugal", url: "" },
+        { title: "Senior iOS Developer", location: "Bergen, Norway", url: "" },
+        { title: "Senior Java Developer (Backend)", location: "Lisbon, Portugal", url: "" },
+        { title: "QA Engineer / Test Engineer", location: "Bucharest, Romania", url: "" },
+        { title: "Project Manager", location: "Oslo, Norway", url: "" },
+        { title: "Sales Manager", location: "Madrid, Spain", url: "" },
+        { title: "Finance & Administration Manager", location: "Bergen, Norway", url: "" },
 
     ];
     return (
@@ -58,14 +58,17 @@ function OpenPosition() {
                         <div
                             data-aos="fade-scale"
                             key={index}
-                            className="rounded-xl p-4 lg:p-6 bg-white hover:shadow-lg transition duration-300"
+                            className="rounded-xl p-4 lg:p-6 bg-white hover:shadow-lg transition duration-300 flex flex-col justify-between h-full"
                         >
-                            <h2 className="text-base lg:text-2xl font-extrabold text-[#122D46] ff_telegraf">
-                                {job.title}
-                            </h2>
-                            <p className="text-sm lg:text-base text-[#122D46] font-light mt-2">
-                                {job.location}
-                            </p>
+                            <div>
+                                <h2 className="text-base lg:text-2xl font-extrabold text-[#122D46] ff_telegraf">
+                                    {job.title}
+                                </h2>
+                                <p className="text-sm lg:text-base text-[#122D46] font-light mt-2">
+                                    {job.location}
+                                </p>
+                            </div>
+
 
                             {/* Always open email client */}
                             <Link

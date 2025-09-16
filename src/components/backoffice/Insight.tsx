@@ -2,12 +2,10 @@
 
 import React, { useEffect } from 'react';
 import 'aos/dist/aos.css';
-import { backofficecard } from '@/common/assets/images';
-import InsightRight from '@/common/assets/images/insight-right.png'
+import { backofficecard, InsightIcon, isightrightalt, } from '@/common/assets/images';
 import Image from 'next/image';
 import Heading from '@/common/components/heading';
 import Text from '@/common/components/text';
-import InsightIcon from '@/common/assets/images/insight-icon.svg'
 function Insight() {
     useEffect(() => {
         import('aos').then(AOS => {
@@ -51,7 +49,7 @@ function Insight() {
                         </div>
                         {/* Right Column */}
                     </div>
-                    <Image className='' src={InsightRight} alt="InsightRight image" />
+                    <Image className='' src={isightrightalt} alt="InsightRight image" />
                 </div>
             </div>
             <div className='container'>

@@ -293,6 +293,7 @@ import hand2 from "./hand-2.png";
 import hand3 from "./hand-3.png";
 import hand4 from "./hand-4.png";
 import landinglaptop from "./landing-laptop.png";
+import mobilemockupgroup from "./mobile-mockup-group.png";
 export {
   solution1,
   solution2,
@@ -587,4 +588,5 @@ export {
   herotwofour,
   herothreefour,
   landinglaptop,
+  mobilemockupgroup,
 };

@@ -119,7 +119,7 @@ function ProgressCards() {
                     ref={(el) => (cardRefs.current[index] = el)}
                     className="relative grid grid-cols-1 md:grid-cols-2 items-center justify-between w-full"
                 >
-                    <div className={`col-span-1 w-full max-w-[314px] md:max-w-[544px] h-full mt-10 ${index === 1 || index === 3 ? 'order-1 md:order-2 ms-auto' : 'order-1 ms-auto md:ms-0'}`} >
+                    <div className={`col-span-1 w-full max-w-[314px] md:max-w-[484px] h-full mt-10 ${index === 1 || index === 3 ? 'order-1 md:order-2 ms-auto' : 'order-1 ms-auto md:ms-0'}`} >
                         <Heading
                             variant="heading-36"
                             text={item.heading}
